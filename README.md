@@ -1,1 +1,1 @@
-# fh_net_control_cs
+# FH Vision system Control sample using C# (re-written from VB)
